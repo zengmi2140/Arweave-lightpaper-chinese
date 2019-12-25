@@ -2,7 +2,7 @@
 
 **作者**：Samuel Williams & William Jones       
 
-**翻译**：**曾汨** & Sauvignon
+**翻译**：曾汨 & Sauvignon
 
 # 目录
 1. 引言
